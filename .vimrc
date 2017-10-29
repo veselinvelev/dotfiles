@@ -74,6 +74,7 @@ set mat=2 " how many tenths of a second to blink
 
 " switch syntax highlighting on
 syntax on
+set noswapfile
 
 set encoding=utf8
 let base16colorspace=256  " Access colors present in 256 colorspace"
