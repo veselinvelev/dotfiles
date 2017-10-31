@@ -87,3 +87,9 @@ set autoindent " automatically set indent of new line
 set smartindent
 
 set laststatus=2 " show the satus line all the time
+
+""""""""
+"CtrlP
+""""""""
+let g:ctrlp_map = '<c-p>'
+let g:ctrlp_cmd = 'CtrlP'
